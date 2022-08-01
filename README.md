@@ -6,7 +6,7 @@ A content based movie recommender system using cosine similarity
 
 *Here we gonna work on 2 platforms, which are namely: Jupyter Notebook & PyCharm (kindly download the code, given above)
 
-*For Dataset kindly download both the csv files from the below given link;
+*For Dataset kindly download both the .csv files from the below given link;
 
 https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 
