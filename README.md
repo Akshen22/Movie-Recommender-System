@@ -18,7 +18,7 @@ Steps to create API;
 
 2. Go to settings & later click on API & create one for yourself.
 
-3. Once done save your respective API key somewhere in your device, as will move ahead will use the API key.
+3. Once done save your respective API key somewhere in your device, will be usefull in further steps!
 
 *Moving forward, open your jupyter notebook & kindly make a movie recommder system folder!
 
