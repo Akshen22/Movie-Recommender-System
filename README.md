@@ -30,7 +30,7 @@ Now run the: movie recommender system.ipynb
 
 Once exeuted, you will see a few .pkl files in your movie recommder system folder, don't worry about that it gonna help us to build our website
 
-Time for: app.py file which one should execute opening pycharm and creating a new project; install streamlit, writing pip install streamlit in the pycharm terminal
+Now it's time for app.py file which, execute opening pycharm and creating a new project; install streamlit, writing pip install streamlit in the pycharm terminal
 
 Now copy paste all the .pkl file from jypter folder to here
 
@@ -38,6 +38,6 @@ Moving forward change the API key with yours on the 7th line of app.py file
 
 Later type: streamlit run app.py in the pycharm terminal, click on that ip address (Will be similar to: http://192.168.29.41:8501/)
  
- Hurrah!! you have successfully executed movie recommender system; try typing any movies & see the recommended movies related to the movie you have searched for!
+Hurrah!! you have successfully executed movie recommender system; try typing any movies & see the recommended movies related to the movie you have searched for!
 
 Get connected with me on insta: @akshen_dhami for any queries.
