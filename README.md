@@ -26,7 +26,7 @@ Later add: movie recommender system.ipynb & both .csv files.
 
 Now run the: movie recommender system.ipynb
 
-Once exeuted, you will see a few .pkl files in your movie recommder system folder, don't worry about that it gonna help us to land our website
+Once exeuted, you will see a few .pkl files in your movie recommder system folder, don't worry about that it gonna help us to build our website
 
 Time for: app.py file which one should execute opening pycharm and creating a new project; install streamlit, writing pip install streamlit in the pycharm terminal
 
