@@ -2,7 +2,7 @@
 
 A content based movie recommender system using cosine similarity
 
-![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 09_57_56](https://user-images.githubusercontent.com/54845610/182072545-5a94bd1c-7c38-482e-9675-72af56c4bf28.png)
+![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 09_57_56](https://user-images.githubusercontent.com/54845610/182072951-382088ba-dccf-4964-8ee6-fe1e0e5d025c.png)
 
 *Here we gonna work on 2 platforms, which are namely: Jupyter Notebook & PyCharm (kindly download the code, given above)
 
