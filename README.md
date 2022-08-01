@@ -37,3 +37,5 @@ Moving forward change the API key with yours on the 7th line of app.py file
 Later type: streamlit run app.py in the pycharm terminal, click on that ip address (Will be similar to: http://192.168.29.41:8501/)
  
  Hurrah!! you have successfully executed movie recommender system; try typing any movies & see the recommended movies related to the movie you have searched for!
+
+Get connected with me on insta: @akshen_dhami for any queries.
