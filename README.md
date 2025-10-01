@@ -1,6 +1,6 @@
 # Movie-Recommendation-System
 
-A content based movie recommender system using cosine similarity
+A content based movie recommender system using a cosine similarity
 
 ![How to take a screenshot on any Windows 10 computer in several different ways _ Business Insider India - Google Chrome 01-08-2022 09_57_56](https://user-images.githubusercontent.com/54845610/182072951-382088ba-dccf-4964-8ee6-fe1e0e5d025c.png)
 
