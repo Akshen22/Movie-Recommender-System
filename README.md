@@ -40,4 +40,4 @@ Later type: streamlit run app.py in the pycharm terminal, click on that ip addre
  
 Hurrah!! you have successfully executed movie recommender system; try typing any movies & see the recommended movies related to the movie you have searched for!
 
-Get connected with me on insta: @akshen_dhami for any queries.
+Contact: akshendhami@gmail.com, https://www.linkedin.com/in/akshen-dhami22
